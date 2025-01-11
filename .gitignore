@@ -125,3 +125,6 @@ dmypy.json
 # macOS
 .DS_Store
 *.mbox
+
+# Blobs
+*.npy
